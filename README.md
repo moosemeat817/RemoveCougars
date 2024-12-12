@@ -4,7 +4,7 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 ## Description
 Remove cougar territories from any of the regions in which they exist.
 
-<img src="https://github.com/moosemeat817/images/RemoveCougars.png" width="80%">
+<img src="https://github.com/moosemeat817/images/blob/main/RemoveCougar.png" width="80%">
 
 ## Usage
 If you disable the 1st cougar territory in a region, then ALL cougar territories will be disabled for that region.  
