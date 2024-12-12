@@ -13,8 +13,13 @@ If you disable any territories while you are actively in a region, the cougars w
 If you have previously disabled any of the cougar territories and re-enable ny territories, you will need to reload the game for change to take effect.
 
 
+
+
 ## Special Thanks
 The Long Dark Modding Server (Discord)
+
+
+
 
 ### Buy Me a Coffee
 If you enjoy using this mod, feel free to buy me a cup of coffee.  Thank you!
