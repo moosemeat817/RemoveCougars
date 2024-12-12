@@ -1,4 +1,4 @@
-# RemoveCougars
+# RemoveCougars 1.0
 This is a mod for The Long Dark by Hinterland Studio, Inc.
 
 ## Description
