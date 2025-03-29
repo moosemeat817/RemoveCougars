@@ -1,4 +1,4 @@
-# RemoveCougars 1.0
+# RemoveCougars 1.1
 This is a mod for The Long Dark by Hinterland Studio, Inc.
 
 ## Description
@@ -11,7 +11,7 @@ If you disable the 1st cougar territory in a region, then ALL cougar territories
 If you disable the 2nd cougar territory in a region, then the 3rd cougar territory will also be disabled for that region.  
 If you disable the 3rd cougar territory for a region, then only the 3rd cougar territory will be disabled.
 
-If you disable any territories while you are actively in a region, the cougars will immediately dissapear and will be disabled.
+You should enable settings and then load/start your game to ensure everything works properly.
 If you have previously disabled any of the cougar territories and re-enable any territories, you will need to reload the game for change to take effect.
 
 
